@@ -1,2 +1,2 @@
 # MySpringCrud
-Thêm, sửa, xóa, tìm ki
+Thêm, sửa, xóa, tìm kiếm bằng spring boot
